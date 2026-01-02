@@ -122,9 +122,9 @@ Ali shaikh- (Afridi)
     
   Backend Developer
     
-> Learning by building.
-> Logic over shortcuts.
-> Progress over perfection.
->
-> THANKS ❤️😊
+Learning by building.
+Logic over shortcuts.
+Progress over perfection.
+
+THANKS ❤️😊
 
